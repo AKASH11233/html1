@@ -1,0 +1,36 @@
+.akash{
+    border: 5px solid coral;
+    background-color: black;
+    padding: 10px;
+     border-radius: 10px;
+    width: 250px;
+    color: #ec0a0a;
+
+}
+b{
+    color: blue;
+}
+p{
+    color: rgb(60, 0, 255);
+}
+.akash4{
+.akash1{
+background-color: black;
+height: 200px;
+width: 250px;
+}
+.akash2{
+    display: flex;
+    background-color: rgb(211, 241, 16);
+    height: 200px;
+    width: 250px;
+ }
+ .akash3{
+    background-color: rgb(14, 7, 205);
+    height: 200px;
+    width: 250px;
+ }
+}
+.akash4{
+    display: flex;
+}
